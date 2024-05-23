@@ -1,4 +1,10 @@
 :root {
 
-    
+--cor-de-fundo: background-color:
+
+}
+
+body{
+background-color: var(--cor-de-fundo)
+
 }
